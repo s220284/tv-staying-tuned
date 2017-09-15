@@ -15,6 +15,8 @@ Things that have my attention include:
 
 This is not a comprehensive list, but I hope it will help you guide your journey.
 
+## A Few Words About Data
+
 ### The Velocity of Data is Increasing and Will Always Increase
 
 The velocity of data is increasing and will always increase. How much data are we talking about? Analysts expect the Internet of Things \(IoT\) to generate over 500 zettabytes of data in 2019 — 49 times current cloud traffic.
@@ -58,6 +60,4 @@ _Otherwise known as the Law of Spectral Efficiency, Cooper's Law has been true f
 Taken together, these observed laws suggest that today is the slowest rate of technological change you will ever experience in your lifetime; the more people are connected, the more powerful the network becomes; and, finally, data is a new frontier.
 
 To get the most out of all of this data, we are going to need to learn how to harness its power.
-
-
 

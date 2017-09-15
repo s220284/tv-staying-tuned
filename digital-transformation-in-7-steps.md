@@ -1,22 +1,24 @@
+# DIGITAL TRANSFORMATION
+
 # Digital Transformation in 7 Steps
 
 _Worried about how to digitally transform while you perform? Wondering how to change the tires while going 60 mph? Are you preparing your team for their digital journey? \(It’s not a destination.\) Are you trying to figure out how to transform yourself \(or your company\) into a digital powerhouse in Internet time? All of the above?_
 
-The phrase “digital transformation” is so overused that it may be on the brink of its own transformation from a business imperative to a hackneyed refrain. Clichés aside, digital transformation _is_ a business imperative and time is the enemy. So, let’s have a look at seven brain-busting steps that will enable you to create value in your organization through digital transformation.
+The phrase “digital transformation” is so overused that it may be on the brink of its own transformation from a business imperative to a hackneyed refrain. Clichés aside, digital transformation _is_ a business imperative and time is the enemy. So, let’s have a look at seven brain-busting steps that will enable you to create value in your organization through digital transformation.
 
 ## 1. Awareness
 
 Digital transformation requires two kinds of awareness: self-awareness and organizational awareness.
 
-_Self-awareness:_ You must honestly evaluate your personal capabilities. How much did you love or hate math in high school? How much attention did you pay in statistics class in college? Are you a technophobe or a technocrat? Are you excited about learning every day or are you dreading it? These are just a few of the kinds of questions you must honestly answer before you participate in the digital transformation of your world.
+_Self-awareness:_ You must honestly evaluate your personal capabilities. How much did you love or hate math in high school? How much attention did you pay in statistics class in college? Are you a technophobe or a technocrat? Are you excited about learning every day or are you dreading it? These are just a few of the kinds of questions you must honestly answer before you participate in the digital transformation of your world.
 
 You must evaluate your colleagues, subordinates and superiors as well. If you’re not with the right people, it’s exhausting – and that’s putting it mildly.
 
-_Organizational awareness:_ Is it possible for you to digitally transform your group, your unit or ultimately your entire organization? There are several obstacles to digital transformation, and the biggest ones are people-centric such as, a superior who doesn’t believe in digital, or individuals with an entrenched “digital is for kids” belief system, or a “that’s not the way we do it here” mindset.
+_Organizational awareness:_ Is it possible for you to digitally transform your group, your unit or ultimately your entire organization? There are several obstacles to digital transformation, and the biggest ones are people-centric such as, a superior who doesn’t believe in digital, or individuals with an entrenched “digital is for kids” belief system, or a “that’s not the way we do it here” mindset.
 
 ## 2. Literacy \(not fluency\)
 
-You need to be digitally literate. This includes data literacy, coding literacy, machine-learning literacy, math literacy, and question/answering \(QA\) literacy to name a few. You need not be fluent. As posited in, [Data Literacy Will Make You Invincible](http://www.shellypalmer.com/2016/04/data-literacy-will-make-invincible/), “You don’t need to speak French to recognize that the email you just received is written in French. You just need to be literate to the point where you know that Google Translate is not going to get the job done and you need a highly skilled French translator to help you interpret and respond to the communication.”
+You need to be digitally literate. This includes data literacy, coding literacy, machine-learning literacy, math literacy, and question/answering \(QA\) literacy to name a few. You need not be fluent. As posited in, [Data Literacy Will Make You Invincible](http://www.shellypalmer.com/2016/04/data-literacy-will-make-invincible/), “You don’t need to speak French to recognize that the email you just received is written in French. You just need to be literate to the point where you know that Google Translate is not going to get the job done and you need a highly skilled French translator to help you interpret and respond to the communication.”
 
 ## 3. Strategy
 
@@ -49,8 +51,4 @@ You can take your time, but understand that today you are experiencing the slowe
 This is the part where you push back and say, “Technology gets faster and cheaper and is doing so at an accelerating rate – that’s why we have to digitally transform. We can wait until we are ready or until we are forced to do it.”
 
 While everything in the preceding quote is true, the inherent problem is that it will not only be true for you, it will be true for all of your competitors and every startup that’s gunning for a piece of your world. By then, it will be too late. Remember your Darwin: “It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change.” In other words, adapt or die!
-
-
-
-
 

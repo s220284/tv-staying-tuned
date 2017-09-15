@@ -1,32 +1,30 @@
 # CMOs Shouldn’t Buy Tech, Ever!
 
-According to [Gartner](https://www.gartner.com/webinar/1871515), 2017 is the year CMOs \(chief marketing officers\) will buy more tech than CIOs \(chief information officers\). This is truly unfortunate. CMOs should never buy tech, ever! Buying tech should be left to technical managers who understand the technical debt each “bolted-on solution” is likely to cause. A quick tech overview of a typical \(albeit oversimplified and incomplete\) marketing tech \(mar-tech\) stack illustrates the problem:
+According to [Gartner](https://www.gartner.com/webinar/1871515), 2017 is the year CMOs \(chief marketing officers\) will buy more tech than CIOs \(chief information officers\). This is truly unfortunate. CMOs should never buy tech, ever! Buying tech should be left to technical managers who understand the technical debt each “bolted-on solution” is likely to cause. A quick tech overview of a typical \(albeit oversimplified and incomplete\) marketing tech \(mar-tech\) stack illustrates the problem:
 
 > **Contacts**
-
+>
 > Contact Acquisition, Nurturing, Retention, Customer Success
-
+>
 > **Connections**
-
+>
 > Social, Websites, Email, Interactive, Remarketing
-
+>
 > **Content**
-
+>
 > Content Creation, Content Optimization and Scoring, Scheduling and Distribution
-
-> **Customer Data **
-> **&**
-> ** Analytics**
-
+>
+> **Customer Data & Analytics**
+>
 > CRM, Analytics Platforms, Insight Tools, Demand Generation
-
+>
 > **Collaboration**
-
+>
 > Shared Workspace, Productivity, Internal Communications Tools
 
 ## A Quick Test
 
-Rather than put the names of the most common software solutions in a pretty graphic above, I simply described the functions of the tools in this approximation of a typical mar-tech stack. Take a few minutes and fill in the names of the best practices, most interoperable \(with your corporate tech stack\) tools for each of the layers. Obviously, I can’t check your answers here, but if you enter your answers in my [handy online form](https://www.shellypalmer.com/mar-tech-stack-homework/), I’ll happily grade your homework. _\(BTW, I don’t sell hardware or software so this is not an infomercial or native advertising, or other selfishness shrouded in altruism device. It’s simply a way for you to test your mar-tech stack knowledge against industry standards.\)_
+Rather than put the names of the most common software solutions in a pretty graphic above, I simply described the functions of the tools in this approximation of a typical mar-tech stack. Take a few minutes and fill in the names of the best practices, most interoperable \(with your corporate tech stack\) tools for each of the layers. Obviously, I can’t check your answers here, but if you enter your answers in my [handy online form](https://www.shellypalmer.com/mar-tech-stack-homework/), I’ll happily grade your homework. _\(BTW, I don’t sell hardware or software so this is not an infomercial or native advertising, or other selfishness shrouded in altruism device. It’s simply a way for you to test your mar-tech stack knowledge against industry standards.\)_
 
 ## It’s Hard Because It’s Not Your Job
 
@@ -56,5 +54,5 @@ Next, organize your marketing department into mar-tech teams. Pairing full-time 
 
 Combining the accelerating pace of technological change with the glacial pace of big corporate timelines is disastrous. By the time you get something designed and approved, the technology has already evolved. This will always be true for some organizations. But you can choose a different path. You can adapt your marketing department by inventing a new breed of marketing technologists.
 
-Oh, and don’t forget to [do your homework](https://www.shellypalmer.com/mar-tech-stack-homework/).
+Oh, and don’t forget to [do your homework](https://www.shellypalmer.com/mar-tech-stack-homework/).
 

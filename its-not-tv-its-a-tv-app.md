@@ -1,12 +1,12 @@
 # It's Not TV, It's A TV App
 
-How soon will TV transform from wall-mounted 4K flat-screens to a 99-cent app in a VR/AR App Store? That’s a question few will ponder this week as the National Association of Broadcasters gathers in Las Vegas for the[NAB Show 2016](http://www.shellypalmer.com/events/nab/). TV has both defined and enlarged mass communication for more than a half-century. No one in their right mind would suggest that big-screen TVs might go away – ever!
+How soon will TV transform from wall-mounted 4K flat-screens to a 99-cent app in a VR/AR App Store? TV has both defined and enlarged mass communication for more than a half-century. No one in their right mind would suggest that big-screen TVs might go away – ever!
 
 Well, no one ever said I was in my right mind. I’m not “liquored up” on the scatter market, and TV sales in an election year/Olympic year are cyclical. Yes, people are making real money right now and the TV business \(from an advertiser sales perspective\) is doing great. But a few technological breakthroughs have caught my attention in the past few weeks, and they’re worth a discussion.
 
-## VR and AR at F8
+## VR and AR
 
-VR \(Virtual Reality\) is for gamers, education, sports and adult entertainment \(which has led the transformation of video technology as far back as anyone can remember\). AR \(Augmented Reality\), a different technology which some say is more difficult to work with, is for navigating and augmenting experiences in the real world. Last week at F8, the Facebook team told us what we already knew: big headsets will evolve into a pair of glasses as soon as technologically possible. The question is, when?
+VR \(Virtual Reality\) is for gamers, education, sports and adult entertainment \(which has led the transformation of video technology as far back as anyone can remember\). AR \(Augmented Reality\), a different technology which some say is more difficult to work with, is for navigating and augmenting experiences in the real world. Facebook says big headsets will evolve into a pair of glasses as soon as technologically possible. Apple and Samsung are shipping AR-capable smartphones now.
 
 ## AI and Machine Learning
 
@@ -27,6 +27,4 @@ This has huge implications for TV as an app. You won’t ever need to know anyth
 If you look closely at all of the related technologies required to change the way we consume media, it is clear that the primordial techno-soup is brewing. My guess is that smartphones will cease to exist in their present form within a decade. Big-screen TVs will cease to be the “best” way to watch football in about the same timeframe. Local bandwidth will empower group viewing with headsets or glasses or whatever they evolve into even sooner, probably 60 months or less. And everything we think we know about media consumption will seriously change. Millennials in movie theaters? Sunday gatherings for football? Mass media measured as a function of the number of users of fixed devices? Set-top boxes? Sets?
 
 This may be an amazingly profitable year for the TV business, and for reasons that have nothing to do with television technology or consumer behavior, profits may continue to rise. But sometime in the very near future, something awesome is going to emerge from today’s frothy primordial techno-soup – and I would not be surprised to see it change the very structure of the TV business. TV as an app or as a chatbot service … imagine the possibilities!
-
-
 
