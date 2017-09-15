@@ -10,7 +10,8 @@ Live video is very different from pre-recorded video. It’s harder to fake, and
 
 ## Lavish “Diamond” Reynolds
 
-There is nothing I can tell you about [Diamond Reynolds’ video selfie of the death of Philando Castile](http://www.facebook.com/100007611243538/videos/1690073837922975/) that has not been written about or discussed in the media – except that this heartbreaking documentary is not the last video selfie of its kind; it is one of the first – the sheer scale of Facebook Live guarantees it.
+There is nothing I can tell you about [Diamond Reynolds’ video selfie of the death of Philando Castile](http://www.facebook.com/100007611243538/videos/1690073837922975/) that has not been written about or discussed in the media – except that this heartbreaking documentary is not the last video selfie of its kind; it is one of the first – the sheer scale of Facebook Live guarantees it.  
+
 
 
 ## A New Era of Documentary Journalism
