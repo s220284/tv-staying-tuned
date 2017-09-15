@@ -1,5 +1,4 @@
-#
-![](/assets/cover.jpg)Television: Staying Tuned
+#![](/assets/cover.jpg)Television: Staying Tuned
 
 I've assembled this collection of essays to inspire you to think about the business of television in the context of our data-driven, machine learning-assisted world. In success, it will act as a primer and a thought starter.
 
