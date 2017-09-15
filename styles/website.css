@@ -5,7 +5,8 @@
   src: url("../fonts/circular-black.eot");
   src: url("../fonts/circular-black.eot?#") format("eot"), url("../fonts/circular-black.woff") format("woff"), url("../fonts/circular-black.ttf") format("truetype"), url("../fonts/circular-black.svg") format("svg");
   font-weight: 800;
-  font-style: normal; 
+  font-style: normal;
+  line-height: 1em; 
 }
 
 h1,h2,h3,h4,h5,h6 {
