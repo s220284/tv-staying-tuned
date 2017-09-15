@@ -1,0 +1,16 @@
+# About The Author
+
+Named one of [LinkedIn’s Top 10 Voices in Technology](https://www.linkedin.com/pulse/linked-top-voices-2016-10-must-know-writers-greg-leffler), **Shelly Palmer **is CEO of **The Palmer Group**, a strategic advisory, technology solutions and business development practice focused at the nexus of media and marketing with a special emphasis on machine learning and data-driven decision-making. He is a trusted strategic advisor to the C-Suite of leading digital media, content, broadcasting and technology firms and a key driver of market, technology and strategic direction, as well as acquisition strategies, for his clients.
+
+**On-Air: **Palmer is well known as Fox 5 New York’s on-air tech expert and for his work on the Emmy-nominated television show,_Shelly Palmer Digital Living_. He is also a regular technology commentator for CNBC, MSNBC, CNN, and Fox Business News.
+
+**Technologist/Inventor: **He is the patented inventor of the underlying technology for Enhanced Television used by programs such as ABC’s Who Wants to Be a Millionaire and ESPN’s Monday Night Football and response-based advertising systems.
+
+**Creative: **An award-winning composer, producer, writer and director, Palmer has worked with hundreds of brands, agencies, broadcasters, publishers and tech platforms on advertising and marketing campaigns such as, Meow Mix, Burger King and The City of Las Vegas.
+
+**Subject Matter Expert: **Palmer is a popular speaker and moderator at technology and media conferences hosted by industry organizations, like: The Consumer Electronics Show \(CES\), The National Association of Broadcasters Convention \(NAB\), PromaxBDA, The National Association of Television Program Executives \(NATPE\), CTIA – The Wireless Association, and other major trade events. He is a guest lecturer at the MIT Media Lab, Stern Graduate Business School at NYU, The Columbia Institute for Tele-Information \(CITI\) at Columbia University, Tsinghua University, Rutgers Business School and other top tier colleges and universities.
+
+**Emmy Awards: **Palmer is a past president of the National Academy of Television Arts & Sciences, the organization that bestows the coveted Emmy Award and the creator of the Advanced Media Emmy Awards held annually at International CES.
+
+**Author: **Palmer is the author of [Television Disrupted: The Transition from Network to Networked TV](http://www.amazon.com/Shelly-Palmer/e/B001H6GKEG/ref=dp_byline_cont_book_1) \(Focal Press 2006; 2nd Edition, York House Press, 2008\) the seminal book about the technological, economic, and sociological forces that are changing everything, [Overcoming The Digital Divide: How to use Social Media and Digital Tools to Reinvent Yourself and Your Career](http://www.amazon.com/Shelly-Palmer/e/B001H6GKEG/ref=dp_byline_cont_book_1) \(York House Press, 2011\), [Digital Wisdom: Thought Leadership for a Connected World](http://www.amazon.com/Shelly-Palmer/e/B001H6GKEG/ref=dp_byline_cont_book_1) \(York House Press, 2013\) and [Data-Driven Thinking: A collection of essays on data-driven decision making](https://www.amazon.com/Data-Driven-Thinking-collection-data-driven-decision-ebook/dp/B01AUF0IAG?ie=UTF8&ref_=asap_bc). \(Digital Living Press, 2016\)
+

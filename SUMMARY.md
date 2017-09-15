@@ -1,5 +1,8 @@
 # Summary
 
+* [Television: Stay Tuned](television-stay-tuned.md)
+  * [Dedication](television-stay-tuned/dedication.md)
+  * [About The Author](television-stay-tuned/about-the-author.md)
 * [Introduction](README.md)
 * [How Do You See the Future?](how-do-you-see-the-future.md)
 * [TV May Actually Die Soon](tv-may-actually-die-soon.md)
@@ -13,7 +16,4 @@
 * [Partner, or Die!](partner-or-die.md)
 * [AI: 5 Things Every CEO Should Know](ai-5-things-every-ceo-should-know.md)
 * [Machine Learning & AI: When to Start?](machine-learning-and-ai-when-to-start.md)
-* [Data Literacy Will Make You Almost Invincible](data-literacy-will-make-you-almost-invincible.md)
-* [Nuber – The End of Uber and Central Authority](nuber-the-end-of-uber-and-central-authority.md)
-* [It’s the Sharing, Stupid!](its-the-sharing-stupid.md)
 
