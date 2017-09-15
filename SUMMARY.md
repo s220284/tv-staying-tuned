@@ -9,11 +9,17 @@
 * [It's Not TV, It's A TV App](its-not-tv-its-a-tv-app.md)
 * [New and Improved 4K HDR \(Ultra HD Television\)](new-and-improved-4k-hdr-ultra-hd-television.md)
 * [The Video Selfie That Changed the World](the-video-selfie-that-changed-the-world.md)
-* [Digital Transformation in 7 Steps](digital-transformation-in-7-steps.md)
+* [Non-Human Traffic, Ad Fraud and Viewability](non-human-traffic-ad-fraud-and-viewability.md)
+* [The Root of Ad Evil](the-root-of-ad-evil.md)
 * [Can Self-Driving Cars Ever Really Be Safe?](can-self-driving-cars-ever-really-be-safe.md)
 * [The 5 Jobs Robots Will Take Last](the-5-jobs-robots-will-take-last.md)
+* [Digital Transformation in 7 Steps](digital-transformation-in-7-steps.md)
 * [The 5 Jobs Robots Will Take First](the-5-jobs-robots-will-take-first.md)
 * [Partner, or Die!](partner-or-die.md)
 * [AI: 5 Things Every CEO Should Know](ai-5-things-every-ceo-should-know.md)
 * [Machine Learning & AI: When to Start?](machine-learning-and-ai-when-to-start.md)
+* [I’d Pay You $500,000 a Year, but You Can't Do the Work](id-pay-you-500000-a-year-but-you-cant-do-the-work.md)
+* [It's the Sharing, Stupid!](its-the-sharing-stupid.md)
+* [Just How Dangerous Is Alexa?](just-how-dangerous-is-alexa.md)
+* CMOs Shouldn't Buy Tech, Ever!
 
