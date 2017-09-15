@@ -1,6 +1,7 @@
 {
 	"pdf": {
 	        "chapterMark": "none",
+	        "pageBreaksBefore": "'/'",
 		"paperSize": "letter",		
 		"margin": {
                   "right": 72,
