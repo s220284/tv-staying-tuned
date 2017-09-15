@@ -1,4 +1,4 @@
-#![](/assets/cover.jpg)Television: Stay Tuned
+#Television: Stay Tuned
 
 ## A collection of essays about the business of television in the context of our data-driven, machine learning-assisted world.
 
