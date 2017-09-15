@@ -13,13 +13,14 @@
 * [The Root of Ad Evil](the-root-of-ad-evil.md)
 * [Can Self-Driving Cars Ever Really Be Safe?](can-self-driving-cars-ever-really-be-safe.md)
 * [The 5 Jobs Robots Will Take Last](the-5-jobs-robots-will-take-last.md)
-* [Digital Transformation in 7 Steps](digital-transformation-in-7-steps.md)
 * [The 5 Jobs Robots Will Take First](the-5-jobs-robots-will-take-first.md)
 * [Partner, or Die!](partner-or-die.md)
+* [Digital Transformation in 7 Steps](digital-transformation-in-7-steps.md)
 * [AI: 5 Things Every CEO Should Know](ai-5-things-every-ceo-should-know.md)
 * [Machine Learning & AI: When to Start?](machine-learning-and-ai-when-to-start.md)
 * [I’d Pay You $500,000 a Year, but You Can't Do the Work](id-pay-you-500000-a-year-but-you-cant-do-the-work.md)
 * [It's the Sharing, Stupid!](its-the-sharing-stupid.md)
 * [Just How Dangerous Is Alexa?](just-how-dangerous-is-alexa.md)
 * CMOs Shouldn't Buy Tech, Ever!
+* [Rich Data, Poor Data: What the Data Rich Do – That the Data Poor and the Data Middle Class Do Not!](rich-data-poor-data-what-the-data-rich-do-that-the-data-poor-and-the-data-middle-class-do-not.md)
 
