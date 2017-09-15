@@ -5,7 +5,6 @@
 * [Dedication](television-stay-tuned/dedication.md)
 * [About The Author](television-stay-tuned/about-the-author.md)
 * [Introduction](television-stay-tuned.md)
-
 * [How Do You See the Future?](how-do-you-see-the-future.md)
 
 ### The Business of Television
