@@ -21,4 +21,5 @@
 * [I’d Pay You $500,000 a Year, but You Can't Do the Work](id-pay-you-500000-a-year-but-you-cant-do-the-work.md)
 * [It's the Sharing, Stupid!](its-the-sharing-stupid.md)
 * [Can Self-Driving Cars Ever Really Be Safe?](can-self-driving-cars-ever-really-be-safe.md)
+* [Conclusion](conclusion.md)
 
