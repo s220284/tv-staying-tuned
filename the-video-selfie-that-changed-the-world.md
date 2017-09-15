@@ -27,4 +27,3 @@ But by the time most people see these videos, they have been filtered through th
 Are there more fistfights today than there were yesterday? Or just more videos of them? More traffic accidents? More gun violence deaths? More of anything you can think of? Or just more video coverage? Is the world actually more dangerous today than it was yesterday, or are we just now finding out how dangerous the world actually is?
 
 I don’t think we can understand or appreciate the impact of “at scale” unfiltered video journalism on our psychological well-being or on our civilization writ large. But we’ll find out soon enough. US Supreme Court Justice Louis D. Brandeis once famously wrote, “Sunlight is said to be the best of disinfectants,” which would lead us to believe that more open and transparent communication will bring us to a better place. Let’s hope so.
-

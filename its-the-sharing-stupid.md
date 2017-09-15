@@ -23,4 +23,3 @@ There is no reason to believe that anyone will be able to stop or even slow down
 Every business can easily identify several areas where something that was once capital and resource intensive such as providing a virtually unlimited supply of potable water, creating a private data center, or generating electricity is going to ultimately transition to a simple \(possibly commoditized\) line-item expense such as a monthly invoice for water, power, or cloud computing.
 
 How will you invest in this very probable future? Where will you place your bets? How will you think about which business functions and processes require internal investments, and which are so obvious and useful that outside vendors will ultimately emerge? These are questions that should be considered daily. I welcome your thoughts and opinions.
-
