@@ -10,7 +10,7 @@ Cost per mile is an obvious differentiator between a human-driven livery car and
 
 Averaging most industry estimates, a $40,000 electric autonomous or hybrid ride-sharing fleet vehicle will cost approximately 20 cents per mile to operate. It doesn’t take much in the way of math skills to understand the industry’s desire to eliminate human drivers.
 
-As I have [previously written](https://www.shellypalmer.com/2017/04/can-self-driving-cars-ever-really-safe/), there are many other benefits to autonomous vehicles including safety, but here I’d like to focus on the financial incentives that may accelerate the trend toward sharing.
+As I have [previously written](https://www.shellypalmer.com/2017/04/can-self-driving-cars-ever-really-safe/), there are many other benefits to autonomous vehicles including safety, but here I’d like to focus on the financial incentives that may accelerate the trend toward sharing.
 
 ## It’s Happened Many Times in Many Ways
 
@@ -23,3 +23,4 @@ There is no reason to believe that anyone will be able to stop or even slow down
 Every business can easily identify several areas where something that was once capital and resource intensive such as providing a virtually unlimited supply of potable water, creating a private data center, or generating electricity is going to ultimately transition to a simple \(possibly commoditized\) line-item expense such as a monthly invoice for water, power, or cloud computing.
 
 How will you invest in this very probable future? Where will you place your bets? How will you think about which business functions and processes require internal investments, and which are so obvious and useful that outside vendors will ultimately emerge? These are questions that should be considered daily. I welcome your thoughts and opinions.
+
