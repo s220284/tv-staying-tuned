@@ -1,5 +1,3 @@
-# THE BUSINESS OF TELEVISION
-
 # TV May Actually Die Soon
 
 FANG \(Facebook, Amazon, Netflix, Google/YouTube\) is about to take a huge bite out of traditional network TV \(ABC, NBC, CBS, and Fox\), and the media business will never be the same.

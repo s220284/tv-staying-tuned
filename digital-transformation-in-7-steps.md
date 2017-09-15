@@ -1,5 +1,3 @@
-# DIGITAL TRANSFORMATION
-
 # Digital Transformation in 7 Steps
 
 _Worried about how to digitally transform while you perform? Wondering how to change the tires while going 60 mph? Are you preparing your team for their digital journey? \(It’s not a destination.\) Are you trying to figure out how to transform yourself \(or your company\) into a digital powerhouse in Internet time? All of the above?_

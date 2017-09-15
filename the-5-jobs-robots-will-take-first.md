@@ -1,5 +1,3 @@
-# MACHINE LEARNING & AI
-
 # The 5 Jobs Robots Will Take First
 
 Oxford University researchers have estimated that 47 percent of U.S. jobs could be automated within the next two decades. But which white-collar jobs will robots take first?
