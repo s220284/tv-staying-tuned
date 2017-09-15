@@ -2,6 +2,12 @@
 	"pdf": {
 		"headerTemplate": "Header of the PDF with _TITLE_",
 		"footerTemplate": "_PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_",
-		"paperSize": "letter"
+		"paperSize": "letter",
+		"margin": {
+                  "right": 72,
+                  "left": 72,
+                  "top": 72,
+                  "bottom": 72
+               }
 	}
 }
