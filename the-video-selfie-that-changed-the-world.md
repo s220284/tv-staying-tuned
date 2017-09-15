@@ -10,9 +10,7 @@ Live video is very different from pre-recorded video. It’s harder to fake, and
 
 ## Lavish “Diamond” Reynolds
 
-There is nothing I can tell you about [Diamond Reynolds’ video selfie of the death of Philando Castile](http://www.facebook.com/100007611243538/videos/1690073837922975/) that has not been written about or discussed in the media – except that this heartbreaking documentary is not the last video selfie of its kind; it is one of the first – the sheer scale of Facebook Live guarantees it.  
-
-
+There is nothing I can tell you about [Diamond Reynolds’ video selfie of the death of Philando Castile](http://www.facebook.com/100007611243538/videos/1690073837922975/) that has not been written about or discussed in the media – except that this heartbreaking documentary is not the last video selfie of its kind; it is one of the first – the sheer scale of Facebook Live guarantees it.
 
 ## A New Era of Documentary Journalism
 
@@ -29,3 +27,4 @@ But by the time most people see these videos, they have been filtered through th
 Are there more fistfights today than there were yesterday? Or just more videos of them? More traffic accidents? More gun violence deaths? More of anything you can think of? Or just more video coverage? Is the world actually more dangerous today than it was yesterday, or are we just now finding out how dangerous the world actually is?
 
 I don’t think we can understand or appreciate the impact of “at scale” unfiltered video journalism on our psychological well-being or on our civilization writ large. But we’ll find out soon enough. US Supreme Court Justice Louis D. Brandeis once famously wrote, “Sunlight is said to be the best of disinfectants,” which would lead us to believe that more open and transparent communication will bring us to a better place. Let’s hope so.
+
