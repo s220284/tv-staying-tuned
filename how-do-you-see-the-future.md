@@ -60,4 +60,3 @@ Once you passionately believe in the future you’ve envisioned, the next step i
 ## Surprise Ending
 
 It’s not a game. It’s a test. And your answers _are_ your future. So let’s take it from the top: What do you believe?
-

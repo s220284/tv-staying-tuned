@@ -51,6 +51,3 @@ But …
 The world will be a very different place when Google, Amazon, Microsoft, Apple and other AI-empowered players have assembled 1st-party profile data that includes our agency. It will make what they do with our current behavioral profiles look like primitive data processing.
 
 We are predisposed to pay for convenience. We happily do it with cash and with data every day. However, we should not suspend our judgment about the implausibility of this narrative for convenience or for the quality of our enjoyment. Though this is a story we have been told before, there are no conventions of this medium. So let me be the first to scream: “Look out!”
-
-
-

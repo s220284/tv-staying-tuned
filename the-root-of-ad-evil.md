@@ -37,6 +37,3 @@ The solution to this problem is systemic, industrial-strength fraud, and everyon
 There are many, many variations of this scenario playing out across the landscape of IP-delivered advertising. The system is like a vortex. It’s strong, stable and self-perpetuating. Broken and perverted as it is, it will work until it doesn’t.
 
 There is much, much more to this story. It’s a story of scale, the nature of publicly traded agencies being asked to act as agents for publicly traded brands. A story of inertia, the middle-management mafia and the internal protection rackets they run. At some point in the very near future, marketers will be forced to admit that they are the architects of this very broken system. Under tremendous financial pressure, they will find the strength to effect meaningful change by aligning outcomes and incentives. And then, as if by magic, the ad crisis will end.
-
-
-

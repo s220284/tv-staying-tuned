@@ -59,4 +59,3 @@ According to Ben, Are You a Human takes a different approach: the company finds 
 Many believe that the ultimate solution will require separate pathways for automated traffic and “real” traffic. This solution will come with its own set of nontrivial problems.
 
 In the meantime, non-human traffic, ad fraud and viewability are huge problems, and it’s time to work together to solve them.
-

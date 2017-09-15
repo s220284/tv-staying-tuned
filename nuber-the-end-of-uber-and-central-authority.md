@@ -41,6 +41,3 @@ There are two general types of blockchain networks: anonymous networks, where ea
 Blockchain is about to transition from a potentially valuable technology to a revenue-generating technology. This will occur as the hundreds of startups working with blockchain and [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) \(contracts that digitally report whether or not their conditions have been met\) start to bring their solutions to market this year.
 
 The only things standing in the way of the new Nuber are a few motivated individuals, a GitHub account, and enough chocolate-covered coffee beans to keep the teams awake while they work on it. Which is the whole point. There’s basically nothing standing in the way of this new approach to economic equality. Is this really the end of Uber? Probably not. Nuber is just an idea \(and a trademark infringement lawsuit waiting to happen\). But it will be exciting to see how trusted, decentralized network technologies change the world.
-
-
-

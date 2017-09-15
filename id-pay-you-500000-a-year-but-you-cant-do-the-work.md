@@ -40,7 +40,4 @@ That said, we’re going to keep looking for amazing programmers and my offer st
 
 Feel free to send me a link to your GitHub account. No resumes required.
 
-_**A note from the author before you write a comment:**It seems that some commenters are worried that I do not understand that there is more to talent recruiting and retention than money. I understand that very well, which is why we are blessed to work with some of the most talented people in the world. This article is about a narrow issue -- a lack of engineers with very specific, highly in-demand skill sets. It attempts to explain how top tier tech has strategically monopolized an incredibly important recruiting pipeline using open source. On that subject, I would welcome your thoughts._
-
-
-
+_**A note from the author before you write a comment:**It seems that some commenters are worried that I do not understand that there is more to talent recruiting and retention than money. I understand that very well, which is why we are blessed to work with some of the most talented people in the world. This article is about a narrow issue -- a lack of engineers with very specific, highly in-demand skill sets. It attempts to explain how top tier tech has strategically monopolized an incredibly important recruiting pipeline using open source. On that subject, I would welcome your thoughts.

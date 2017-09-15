@@ -23,6 +23,3 @@ It’s great to bring in subject matter experts, vendors, and partners who can t
 ## 5. Every Current Competitor Is in the Same Boat – but They Are Not the Problem
 
 The good news is that today, most of your competitors are right about where you are in this journey. The bad news is that your competitors are not the problem. Neither are the ankle biters or piranhas \(small companies and start-ups that aspire to compete with you and take tiny bites out of your market share\). The real problem is the upcoming exponential changes caused by machine learning systems that interpret the increasing velocity of data and make it actionable in ways you cannot adapt to. This is the enemy that should have your undivided attention. It is growing stronger every day. Are you ready?
-
-
-

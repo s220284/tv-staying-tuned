@@ -39,4 +39,3 @@ For consumers — more choice, more fun. Consumers don’t care about content tr
 For advertisers — Brands have never wanted to buy CPMs \(cost per thousand impressions\) or GRPs \(gross rating points\); they want to sell stuff. The data-rich FANG and other tech giants are offering data that can be turned directly into sales.
 
 For Networks — It’s just a matter of time before media without actionable data will be impossible to monetize. Can traditional TV catch up? Adapt or die!
-

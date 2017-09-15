@@ -48,6 +48,3 @@ I have intentionally left artist, writ large, off this list. The artist is a goo
 ## What’s Next
 
 If you’re wondering where your job sits on the list of “Run for your life, the robots are coming,” you have a simple, singular mission. Learn how your job is going to be automated. Learn everything you can about what your job will evolve into and become the very best man-machine partner you can. It’s the best way to prepare yourself for the advent of AI. Lastly, don’t wait. Everyone will tell you that none of this is happening anytime soon. They are flat wrong. But even if they are right, there’s no harm in being better prepared for an inevitable future.
-
-
-

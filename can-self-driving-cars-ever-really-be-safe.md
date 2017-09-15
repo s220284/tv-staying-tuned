@@ -51,6 +51,3 @@ Some people are afraid to fly. When you point out that flying is the safest form
 I’m pretty sure that before 2030, if you are under the age of 25 or over the age of 70, you are going to need a special permit to manually drive a car. I’m also pretty sure that you will not be allowed to manually drive on certain streets and highway lanes because you will pose too great of a threat to the caravans of autonomous vehicles on those roads.
 
 With any luck, the fear-mongers and bureaucrats will get out of the way, and we will all be much safer sooner.
-
-
-

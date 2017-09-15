@@ -35,6 +35,3 @@ The data rich make their data actionable by using very sophisticated machine lea
 Data-driven thinking is the key to acting data rich. When the meteorologist says, “Tomorrow it will be 48 degrees with a 60 percent chance of precipitation,” some people might decide to wear a raincoat; others might bring an umbrella. You might decide to ignore the rain warning but to add a sweater to your outfit. Regardless of the conclusion, you have to translate the information \(data\) into action. Or, to put it another way, use the data to drive your decision-making. The data rich do this full time. You can too.
 
 Want help? We offer a [bunch of different training programs](http://www.shellypalmer.com/data-activation-series/) that may work for you or your company, including Executive Data Literacy Training Courses, Data-Driven Media Sales Training Courses and bespoke Data Activation Forums for the C-Suite.
-
-
-

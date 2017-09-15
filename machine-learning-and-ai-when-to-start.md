@@ -29,6 +29,3 @@ As you experiment with machine learning tools, you will quickly come to the real
 Today is a good day to start thinking about investing in machine learning tools for your business. Commission the data audit ASAP. Commit an appropriate amount of resources to best-in-class data governance. It is impossible to turn data into action unless you have easy access to it. Then, subscribe to the commoditized machine learning services wherever they make sense. The productivity increase will create value.
 
 As for building and training an in-house machine learning system? Let’s get together and talk about slowing down to speed up. Proxima Centauri is just a few light-years away.
-
-
-

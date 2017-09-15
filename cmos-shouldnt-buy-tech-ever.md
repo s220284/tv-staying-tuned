@@ -55,4 +55,3 @@ Next, organize your marketing department into mar-tech teams. Pairing full-time 
 Combining the accelerating pace of technological change with the glacial pace of big corporate timelines is disastrous. By the time you get something designed and approved, the technology has already evolved. This will always be true for some organizations. But you can choose a different path. You can adapt your marketing department by inventing a new breed of marketing technologists.
 
 Oh, and don’t forget to [do your homework](https://www.shellypalmer.com/mar-tech-stack-homework/).
-

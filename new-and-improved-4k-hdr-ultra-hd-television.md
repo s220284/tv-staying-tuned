@@ -45,4 +45,3 @@ There’s no way to get around this: in the world of 4K, the best picture qualit
 According to the [CTA™](http://www.cedmagazine.com/news/2016/07/internet-things-cta-report-says-now-pivot-point-consumer-technology-history), 2016 was a flagship year for 4K TVs, thanks in large part to the rollout of HDR. 4K shipments were estimated at 15 million units \(+105% YoY\) with a revenue exceeding $12.9 billion \(+69% YoY\). Most industry experts believe this trend will continue.
 
 A new report from Strategy Analytics’ Intelligent Home Group says around 250 million TV viewers will be able to watch shows in HDR by 2020, when the annual worldwide sales of HDR-enabled TVs will reach 58 million units, bringing the number of homes with at least one HDR-enabled TV to 107 million.
-

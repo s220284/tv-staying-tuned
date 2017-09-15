@@ -60,4 +60,3 @@ _Otherwise known as the Law of Spectral Efficiency, Cooper's Law has been true f
 Taken together, these observed laws suggest that today is the slowest rate of technological change you will ever experience in your lifetime; the more people are connected, the more powerful the network becomes; and, finally, data is a new frontier.
 
 To get the most out of all of this data, we are going to need to learn how to harness its power.
-

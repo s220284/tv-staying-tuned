@@ -49,4 +49,3 @@ You can take your time, but understand that today you are experiencing the slowe
 This is the part where you push back and say, “Technology gets faster and cheaper and is doing so at an accelerating rate – that’s why we have to digitally transform. We can wait until we are ready or until we are forced to do it.”
 
 While everything in the preceding quote is true, the inherent problem is that it will not only be true for you, it will be true for all of your competitors and every startup that’s gunning for a piece of your world. By then, it will be too late. Remember your Darwin: “It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change.” In other words, adapt or die!
-

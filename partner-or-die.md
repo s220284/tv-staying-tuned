@@ -45,6 +45,3 @@ With your initial success will come a “hallway handle,” something that gets 
 One of the biggest problems facing white-collar workers today is a misunderstanding of man/machine partnerships. There is very little chance that robots \(as we are defining them here\) will take every white-collar job in the next few years. They don’t have to. They only have to take yours.
 
 The way to prosper in an ever-more-automated world is to create your competitive advantage by becoming the best possible man/machine partner. If you let the machines do what they do best, combine that with what you do best, and, most importantly, demonstrate the value of you and your machine skills to management, you will not only survive the attack of the machines, you will be stronger for it.
-
-
-

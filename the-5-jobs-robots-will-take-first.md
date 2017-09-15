@@ -39,4 +39,3 @@ Adapting to this change is going to require us to understand how man-machine par
 With that strategy, we can work on adapting our skills to become better than our peers at leveraging man-machine partnerships. We’ve always been tool-users; now we will become "tool-partners."
 
 Becoming a great man-machine partner team will not save every job, but it is a clear pathway to prolonging your current career while you figure out what your job must evolve into in order to continue to transfer the value of your personal intellectual property into wealth.
-

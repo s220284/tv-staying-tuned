@@ -40,6 +40,3 @@ Turning data literacy into invincibility will evolve from your understanding of 
 The interpretation of data is not something that humans can do alone. We need computers and mathematics to help us. No one is expecting you to become an expert data scientist, mathlete or computer geek in order to do your job. But make no mistake; this is not something you can “let other people do.” Turning information into action is your job. So go for it \(and get there first\). The rewards will be well worth your time.
 
 Want help? We offer a [bunch of different training programs](https://www.shellypalmer.com/digital-transformation-center-excellence/) that may work for you or your company, including Executive Data Literacy Training Courses, Data-Driven Media Sales Training Courses and bespoke Data Activation Forums for the C-Suite.
-
-
-
