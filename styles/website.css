@@ -1,0 +1,14 @@
+/* CSS for website */
+
+@font-face {
+  font-family: Circular;
+  src: url("../fonts/circular-black.eot");
+  src: url("../fonts/circular-black.eot?#") format("eot"), url("../fonts/circular-black.woff") format("woff"), url("../fonts/circular-black.ttf") format("truetype"), url("../fonts/circular-black.svg") format("svg");
+  font-weight: 900;
+  font-style: normal; 
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Circular;
+    font-weight: 900;
+}
