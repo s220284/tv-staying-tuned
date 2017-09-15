@@ -12,6 +12,7 @@ Live video is very different from pre-recorded video. It’s harder to fake, and
 
 There is nothing I can tell you about [Diamond Reynolds’ video selfie of the death of Philando Castile](http://www.facebook.com/100007611243538/videos/1690073837922975/) that has not been written about or discussed in the media – except that this heartbreaking documentary is not the last video selfie of its kind; it is one of the first – the sheer scale of Facebook Live guarantees it.
 
+
 ## A New Era of Documentary Journalism
 
 In the 60’s, television brought the horrors of the Viet Nam War into our living rooms. In the late 70’s, a new kind of daily broadcast network news program, “Nightline,” evolved from the Iran Hostage Crisis. In 1991, the Gulf War changed our relationship with 24-hour cable news. If you are of a certain age, you might remember CNN correspondent Bernard Shaw hiding under a desk while reporting the bombing of Baghdad from the Al-Rashid Hotel. I had never seen high-quality, color video of a city being attacked from the air, and I’ll never forget it.
